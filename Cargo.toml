@@ -1,7 +1,9 @@
 [package]
-name = "captcha"
+name = "captchagen"
 version = "0.1.0"
 edition = "2024"
+license = "MIT"
+description = "captcha"
 
 [dependencies]
 base64 = { version = "0.22.1", optional = true }
